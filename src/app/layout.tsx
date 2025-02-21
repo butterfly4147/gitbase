@@ -22,13 +22,13 @@ interface RootLayoutProps {
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
     <html lang="en">
-       <Head>
+       <head>
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1611386660183346"
           crossOrigin="anonymous"
         ></script>
-      </Head>
+      </head>
       <body className={inter.className}>
         <Layout>{children}</Layout>
       </body>
