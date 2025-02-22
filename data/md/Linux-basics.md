@@ -247,3 +247,7 @@ date: '2024-08-16T03:57:46.153Z'
    查看Linux版本信息：cat /etc/redhat-release 
 
 八、
+
+
+哈哈哈哈
+![image](https://img2024.cnblogs.com/blog/2630659/202502/2630659-20250222201137977-1762516717.png)
