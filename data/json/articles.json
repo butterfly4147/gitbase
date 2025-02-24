@@ -3,7 +3,7 @@
     "title": "Linux basics",
     "description": "Hi, I'm Qiayue, creator of GitBase. I'm excited to welcome you to our project and look forward to your contributions in making GitBase even better!",
     "date": "2024-08-16T03:57:46.153Z",
-    "lastModified": "2025-02-22T04:20:36Z",
+    "lastModified": "2025-02-22T12:15:55Z",
     "path": "data/md/Linux-basics.md"
   },
   {
@@ -44,6 +44,13 @@
     "date": "2024-08-16T03:57:46.153Z",
     "lastModified": "2025-02-21T01:35:58Z",
     "path": "data/md/how-to-contributing-to-gitbase.md"
+  },
+  {
+    "title": "Life Trajectory",
+    "description": "sell everything what you need in life.",
+    "date": "2025-02-24T09:38:50.612Z",
+    "lastModified": "2025-02-24T09:38:50Z",
+    "path": "data/md/life-trajectory.md"
   },
   {
     "title": "Managing Articles in GitBase Admin Panel",
